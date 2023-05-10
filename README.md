@@ -3,7 +3,7 @@
 ![git-clone](https://github.com/dev-nakasho/udemy-git/assets/40833446/c8be0479-8e26-4535-83eb-c003b9b908e5)
 
 ```shell
-git clone <repository_url>
+git clone repository_url
 ```
 
 ## git branch, git checkout
